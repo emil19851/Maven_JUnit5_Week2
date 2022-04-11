@@ -9,5 +9,8 @@
         <module name="Maven_JUnit5_Week2" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Maven_JUnit5_Week2" target="17" />
+    </bytecodeTargetLevel>
   </component>
 </project>
